@@ -1,3 +1,7 @@
+> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
+><a href='https://ko-fi.com/eirehauler' target="_blank" rel="noopener noreferrer"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"/></a>
+> * [PayPal](https://www.paypal.me/EireHauler)
+
 # Flutter Screens
 
 A collection of Login Screens, Buttons, Loaders and Widgets with attractive UIs, built with Flutter, ready to be used in your applications.
