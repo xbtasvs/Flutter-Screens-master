@@ -215,4 +215,6 @@ Container(
 
   ## Contribution and Donation
 
-  Feel free to contribute. If you like the project and want to donate, [click here](https://www.paypal.me/samarthagarwal).
+> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
+><a href='https://ko-fi.com/eirehauler' target="_blank" rel="noopener noreferrer"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"/></a>
+> * [PayPal](https://www.paypal.me/EireHauler)
